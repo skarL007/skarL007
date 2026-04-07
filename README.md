@@ -91,6 +91,3 @@ Operational hub for managing GitHub portfolio health, progress, and automation w
 
 I’m open to opportunities, technical conversations, and portfolio walkthroughs when relevant.
 
-<div align="center">
-<sub>Fast iteration · clean architecture · production-minded systems</sub>
-</div>
