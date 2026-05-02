@@ -1,93 +1,97 @@
 <div align="center">
 
-# skarL007
+# Marcelo Machuca
 
-### Software Engineer · Applied AI · Full-stack Product Development
+### AI-assisted Product Architect | Applied AI Systems | Local-first Tools
 
-**Python** · **TypeScript** · **FastAPI** · **React / Next.js** · **Observability** · **AI systems**
+**Python** | **TypeScript** | **FastAPI** | **React / Next.js** | **RAG** | **Automation** | **Observability**
 
-I build full-stack AI products that move from prototype to production, with a strong focus on clean architecture, evaluation, observability, and maintainability.
+I design and build software products with heavy use of AI coding agents. My strongest work is not traditional solo hand-coding from a blank file; it is architecture, product direction, system decomposition, validation, and turning rough ideas into working prototypes that can be tested, audited, and improved.
 
-My work usually combines backend systems, product interfaces, and AI workflows — including RAG pipelines, streaming experiences, multi-tenant platforms, and developer-friendly tooling.
-
-[![Lumen](https://img.shields.io/badge/FinOps_%26_Observability-0ea5e9?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://github.com/skarL007/-lumen-ai-sdk)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/skarL007)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/skarL007)
-
-<sub>Open to opportunities and collaborations in product engineering and applied AI</sub>
+I am honest about the workflow: most of my portfolio was created through agentic/vibe coding, with me acting as the architect, reviewer, operator, and product owner. I define the system, guide the implementation, inspect the output, run validations, and keep iterating until the product is usable.
 
 </div>
 
 ---
 
-## About
+## What I Build
 
-I’m focused on building software that is useful, measurable, and production-minded — from APIs and interfaces to AI-powered features and operational visibility.
+I focus on applied AI products and local-first systems:
 
-I care about systems that are not only functional, but also understandable: documented, testable, and easier to evolve over time.
+- RAG and knowledge-base workflows for study, research, medical learning, and persona systems
+- AI-assisted developer tools, multi-agent orchestration, and coding-agent workflows
+- Automation products for content, research, lead discovery, and operational dashboards
+- Observability and cost-tracking tools for LLM and GenAI workloads
+- Product prototypes with real UI, backend APIs, persistence, and validation gates
 
----
-
-## Public highlight
-
-### [Lumen AI SDK](https://github.com/skarL007/-lumen-ai-sdk) · FinOps & observability for GenAI
-
-A toolkit for monitoring cost and operational signals in GenAI workloads, with support for OpenTelemetry and multi-tenant environments.
+My current direction is practical: build useful systems, prove them with tests or runtime checks, document the tradeoffs, and keep the claims proportional to the evidence.
 
 ---
 
-## Selected private work
+## Selected Public Work
 
-> Some repositories are private by choice. Below is a concise technical summary of selected projects.
+### [LumenAI SDK](https://github.com/skarL007/-lumen-ai-sdk)
+Alpha-stage SDK for GenAI FinOps and observability. It explores tenant-aware cost attribution, OpenTelemetry integration, pricing metadata, and event export patterns for AI applications.
 
-### FusioN
-Hierarchical repository and research synthesis engine built around code structure analysis, graph-based reasoning, and orchestration workflows.  
-**Stack:** Joern, GNNs, LangGraph, FastAPI, React, Postgres/pgvector, Neo4j, Redis/Celery.
+### [OpenClaude](https://github.com/skarL007/openclaude)
+Public multi-provider coding-agent CLI work, focused on terminal-first AI workflows, provider routing, local/cloud model support, MCP-style tooling, and developer ergonomics.
 
-### Omni
-AI-supported university study platform for web and mobile, with flashcards, RAG workflows, and cost-aware observability.  
-**Stack:** Next.js, Supabase, Gemini, Expo / React Native.
+### [CapiNews Data](https://github.com/skarL007/capinews-data)
+Static data/frontend layer for an automated AI intelligence report flow, with generated daily reports and a GitHub Pages-style delivery path.
 
-### Brain (CitesMD)
-Multi-tenant SaaS for medical study workflows with citation-grounded retrieval, streaming responses, and strong backend testing practices.  
-**Stack:** FastAPI, Celery, PostgreSQL, Stripe, PWA, Telegram bot.
-
-### Autonomous Council
-Applied AI platform combining GraphRAG, explainability, and causality-oriented workflows for enterprise-style use cases.  
-**Stack:** FastAPI, Next.js, DoWhy/EconML, Kafka/Flink, Celery, Prometheus.
-
-### Vtuber
-Local-first multimodal companion with memory layers, voice pipeline, and desktop integration.  
-**Stack:** FastAPI, ASR/TTS, Live2D, Tauri.
-
-### Bot_Discord (Capi News)
-Automation bot for personalized newsletters and research-assisted content flows, with payments and scheduled delivery.  
-**Stack:** discord.py, Stripe, Vercel.
-
-### project-ops-hub
-Operational hub for managing GitHub portfolio health, progress, and automation workflows.  
-**Stack:** FastAPI, React, webhooks, CI.
+### [Engenharia de Software com IA Aplicada](https://github.com/skarL007/engenharia-de-software-com-ia-aplicada)
+Study/reference repository collecting material around AI engineering, LLMs, browser AI, prompt engineering, MCPs, RAG, local models, and developer automation.
 
 ---
 
-## Also public
+## Selected Private Work
 
-- [openclaude](https://github.com/skarL007/openclaude)
-- [engenharia-de-software-com-ia-aplicada](https://github.com/skarL007/engenharia-de-software-com-ia-aplicada)
-- [pandas-essencial](https://github.com/skarL007/pandas-essencial)
+Some of my most representative work is private or local-first. I can walk through the architecture and evidence when relevant.
+
+**Omega / Open-kimi** - Local-first multi-agent architecture workbench built around Kimi workflows, Node-RED orchestration, approval gates, dry-run-first execution, and SaaS blueprint generation.
+
+**Projeto Ents** - Local RAG/persona system with FastAPI gateway, routing, editorial manifests, local embeddings, TTS path, and validation UI.
+
+**Mita AI / Vtuber** - Local multimodal companion experiment with memory layers, voice pipeline, RAG, emotion/personality systems, and desktop/avatar integration.
+
+**CitesMD / Brain** - Medical study and citation-grounded RAG platform work, including notebooks, document ingestion, medical workflows, search, and backend validation.
+
+**Project Ops Hub / Estudo** - Operational hub for portfolio tracking and a gated learning journey, combining GitHub project signals, FastAPI, React, local persistence, and progress workflows.
+
+**Shadow Run / Game Dev** - Survival game prototypes in Pygame and Godot, including gameplay systems, assets, validation scripts, and mobile-oriented planning.
+
+**FusioN / Omni / AuditForge** - Research and tooling experiments around repository synthesis, auditable compute ledgers, security audit workflows, benchmarks, and report generation.
 
 ---
 
-## Skills
+## How I Work
 
-**Backend:** FastAPI, Celery, Redis, SQLAlchemy, Alembic  
-**Frontend:** React, Next.js, TypeScript, Vite  
-**Data & AI:** RAG, embeddings, graph-based workflows, evaluation pipelines  
-**Ops & Quality:** Docker, pytest, observability, multi-tenant patterns
+My workflow is architecture-first and evidence-driven:
+
+- define product scope and system boundaries
+- break work into phases, agents, gates, and acceptance criteria
+- use AI coding agents to implement and refactor under direction
+- inspect generated code, docs, tests, and runtime behavior
+- prefer local-first validation before calling something done
+- keep private projects private when they are experiments, drafts, or not ready for public support
+
+I am still deepening traditional engineering fundamentals, but I already bring strong product judgment, systems thinking, AI-tool fluency, and execution speed with modern coding-agent workflows.
 
 ---
 
-## Collaboration
+## Working Stack
 
-I’m open to opportunities, technical conversations, and portfolio walkthroughs when relevant.
+**Languages:** Python, TypeScript, JavaScript  
+**Backend:** FastAPI, Node/Express, Celery, Redis, SQLAlchemy, SQLite/PostgreSQL  
+**Frontend:** React, Next.js, Vite, Tailwind, shadcn/ui  
+**AI/RAG:** embeddings, FAISS, Qdrant, pgvector, Ollama, OpenRouter, Gemini, local model workflows  
+**Quality/Ops:** pytest, Playwright, Docker, GitHub Actions, OpenTelemetry, Prometheus-style metrics  
+**Product:** architecture docs, Mermaid diagrams, validation reports, local dashboards, workflow design
 
+---
+
+## Positioning
+
+I am best matched with work that values product architecture, AI-assisted execution, rapid prototyping, local tooling, automation, and practical validation.
+
+I do not claim every repository is production-ready. Some are learning projects, some are private experiments, and some are ambitious prototypes. The common thread is that I can take an idea, structure it, drive AI-assisted implementation, and turn it into something concrete enough to test and improve.
