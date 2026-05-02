@@ -1,97 +1,214 @@
 <div align="center">
 
-# Marcelo Machuca
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0f172a,45:2563eb,100:14b8a6&text=Marcelo%20Machuca&fontColor=ffffff&fontSize=38&fontAlignY=34&desc=AI-assisted%20Product%20Architect%20%7C%20Applied%20AI%20Systems&descAlignY=58&descSize=15" alt="Marcelo Machuca" />
 
-### AI-assisted Product Architect | Applied AI Systems | Local-first Tools
+<p>
+  <a href="https://github.com/skarL007"><img src="https://img.shields.io/badge/GitHub-skarL007-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/AI--assisted-Architecture-2563eb?style=for-the-badge" alt="AI-assisted architecture" />
+  <img src="https://img.shields.io/badge/Focus-Local--first%20AI-14b8a6?style=for-the-badge" alt="Local-first AI" />
+</p>
 
-**Python** | **TypeScript** | **FastAPI** | **React / Next.js** | **RAG** | **Automation** | **Observability**
-
-I design and build software products with heavy use of AI coding agents. My strongest work is not traditional solo hand-coding from a blank file; it is architecture, product direction, system decomposition, validation, and turning rough ideas into working prototypes that can be tested, audited, and improved.
-
-I am honest about the workflow: most of my portfolio was created through agentic/vibe coding, with me acting as the architect, reviewer, operator, and product owner. I define the system, guide the implementation, inspect the output, run validations, and keep iterating until the product is usable.
+<p><strong>I turn ideas into working AI products with architecture, agentic coding workflows, and evidence-driven validation.</strong></p>
 
 </div>
 
 ---
 
-## What I Build
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I focus on applied AI products and local-first systems:
+### What I Do
 
-- RAG and knowledge-base workflows for study, research, medical learning, and persona systems
-- AI-assisted developer tools, multi-agent orchestration, and coding-agent workflows
-- Automation products for content, research, lead discovery, and operational dashboards
-- Observability and cost-tracking tools for LLM and GenAI workloads
-- Product prototypes with real UI, backend APIs, persistence, and validation gates
+- Design AI product architecture and technical workflows
+- Use coding agents to build real prototypes fast
+- Validate with tests, runtime checks, docs, and demos
+- Shape RAG, automation, local-first tools, and dashboards
+- Keep claims proportional to what the project can prove
 
-My current direction is practical: build useful systems, prove them with tests or runtime checks, document the tradeoffs, and keep the claims proportional to the evidence.
+</td>
+<td width="50%" valign="top">
+
+### Honest Positioning
+
+Most of this portfolio was built through AI-assisted / vibe coding. My role is architecture, product direction, orchestration, review, validation, and iteration.
+
+I am not presenting myself as someone who hand-coded every line alone. I am presenting the actual skill: turning ambiguous ideas into structured, testable software systems using modern AI tools.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Public Work
+## Public Signal
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [LumenAI SDK](https://github.com/skarL007/-lumen-ai-sdk)
-Alpha-stage SDK for GenAI FinOps and observability. It explores tenant-aware cost attribution, OpenTelemetry integration, pricing metadata, and event export patterns for AI applications.
+GenAI FinOps and observability SDK exploring tenant-aware cost attribution, OpenTelemetry integration, pricing metadata, and event export patterns.
+
+`Python` `OpenTelemetry` `Redis` `Cost tracking` `SDK design`
+
+</td>
+<td width="50%" valign="top">
 
 ### [OpenClaude](https://github.com/skarL007/openclaude)
-Public multi-provider coding-agent CLI work, focused on terminal-first AI workflows, provider routing, local/cloud model support, MCP-style tooling, and developer ergonomics.
+Multi-provider coding-agent CLI work focused on terminal-first AI workflows, provider routing, local/cloud model support, and developer ergonomics.
+
+`TypeScript` `CLI` `Agents` `MCP` `Provider routing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### [CapiNews Data](https://github.com/skarL007/capinews-data)
-Static data/frontend layer for an automated AI intelligence report flow, with generated daily reports and a GitHub Pages-style delivery path.
+Static delivery layer for automated daily AI intelligence reports, with generated data and a GitHub Pages-style frontend path.
 
-### [Engenharia de Software com IA Aplicada](https://github.com/skarL007/engenharia-de-software-com-ia-aplicada)
-Study/reference repository collecting material around AI engineering, LLMs, browser AI, prompt engineering, MCPs, RAG, local models, and developer automation.
+`Automation` `Static frontend` `Reports` `Data pipeline`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Selected Private Work
+### [AI Software Engineering Notes](https://github.com/skarL007/engenharia-de-software-com-ia-aplicada)
+Study/reference repository around AI engineering, LLMs, browser AI, prompt engineering, MCPs, RAG, local models, and automation.
 
-Some of my most representative work is private or local-first. I can walk through the architecture and evidence when relevant.
+`Learning system` `LLMs` `RAG` `MCP` `Research notes`
 
-**Omega / Open-kimi** - Local-first multi-agent architecture workbench built around Kimi workflows, Node-RED orchestration, approval gates, dry-run-first execution, and SaaS blueprint generation.
-
-**Projeto Ents** - Local RAG/persona system with FastAPI gateway, routing, editorial manifests, local embeddings, TTS path, and validation UI.
-
-**Mita AI / Vtuber** - Local multimodal companion experiment with memory layers, voice pipeline, RAG, emotion/personality systems, and desktop/avatar integration.
-
-**CitesMD / Brain** - Medical study and citation-grounded RAG platform work, including notebooks, document ingestion, medical workflows, search, and backend validation.
-
-**Project Ops Hub / Estudo** - Operational hub for portfolio tracking and a gated learning journey, combining GitHub project signals, FastAPI, React, local persistence, and progress workflows.
-
-**Shadow Run / Game Dev** - Survival game prototypes in Pygame and Godot, including gameplay systems, assets, validation scripts, and mobile-oriented planning.
-
-**FusioN / Omni / AuditForge** - Research and tooling experiments around repository synthesis, auditable compute ledgers, security audit workflows, benchmarks, and report generation.
+</td>
+</tr>
+</table>
 
 ---
 
-## How I Work
+## Private / Local-First Labs
 
-My workflow is architecture-first and evidence-driven:
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- define product scope and system boundaries
-- break work into phases, agents, gates, and acceptance criteria
-- use AI coding agents to implement and refactor under direction
-- inspect generated code, docs, tests, and runtime behavior
-- prefer local-first validation before calling something done
-- keep private projects private when they are experiments, drafts, or not ready for public support
+### AI Workbenches
 
-I am still deepening traditional engineering fundamentals, but I already bring strong product judgment, systems thinking, AI-tool fluency, and execution speed with modern coding-agent workflows.
+**Omega / Open-kimi**  
+Local-first multi-agent architecture workbench with approval gates, dry-run-first execution, Node-RED orchestration, and SaaS blueprint generation.
+
+**Project Ops Hub / Estudo**  
+Portfolio operations and learning journey system with FastAPI, React, local persistence, GitHub project signals, and gated progress workflows.
+
+</td>
+<td width="33%" valign="top">
+
+### RAG & Companions
+
+**Projeto Ents**  
+Local RAG/persona system with FastAPI gateway, routing, editorial manifests, embeddings, TTS path, and validation UI.
+
+**Mita AI / Vtuber**  
+Local companion experiment with memory layers, voice pipeline, RAG, emotion/personality systems, and avatar integration.
+
+</td>
+<td width="33%" valign="top">
+
+### Research Tools
+
+**CitesMD / Brain**  
+Medical study and citation-grounded RAG platform work with notebooks, ingestion, search, medical workflows, and backend validation.
+
+**FusioN / Omni / AuditForge**  
+Experiments in repository synthesis, auditable compute, security audit workflows, benchmarks, and report generation.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Working Stack
+## Stack I Actually Use
 
-**Languages:** Python, TypeScript, JavaScript  
-**Backend:** FastAPI, Node/Express, Celery, Redis, SQLAlchemy, SQLite/PostgreSQL  
-**Frontend:** React, Next.js, Vite, Tailwind, shadcn/ui  
-**AI/RAG:** embeddings, FAISS, Qdrant, pgvector, Ollama, OpenRouter, Gemini, local model workflows  
-**Quality/Ops:** pytest, Playwright, Docker, GitHub Actions, OpenTelemetry, Prometheus-style metrics  
-**Product:** architecture docs, Mermaid diagrams, validation reports, local dashboards, workflow design
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OpenRouter-111827?style=flat-square" alt="OpenRouter" />
+</p>
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Backend**  
+FastAPI, Celery, Redis, SQLAlchemy, SQLite/PostgreSQL, Node/Express
+
+</td>
+<td width="25%" valign="top">
+
+**Frontend**  
+React, Next.js, Vite, TypeScript, Tailwind, shadcn/ui
+
+</td>
+<td width="25%" valign="top">
+
+**AI / RAG**  
+Embeddings, FAISS, Qdrant, pgvector, Ollama, Gemini, OpenRouter
+
+</td>
+<td width="25%" valign="top">
+
+**Quality**  
+pytest, Playwright, GitHub Actions, Docker, OpenTelemetry, validation reports
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Positioning
+## Operating Model
 
-I am best matched with work that values product architecture, AI-assisted execution, rapid prototyping, local tooling, automation, and practical validation.
+```text
+idea -> architecture -> agentic implementation -> review -> validation -> demo -> iteration
+```
 
-I do not claim every repository is production-ready. Some are learning projects, some are private experiments, and some are ambitious prototypes. The common thread is that I can take an idea, structure it, drive AI-assisted implementation, and turn it into something concrete enough to test and improve.
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Strongest
+Product architecture, decomposition, AI workflow design, rapid prototyping, local-first systems, documentation, and validation mindset.
+
+</td>
+<td width="33%" valign="top">
+
+### Improving
+Traditional engineering depth, long-term maintainability, security hardening, production operations, and disciplined test coverage across every project.
+
+</td>
+<td width="33%" valign="top">
+
+### Looking For
+Work where AI-assisted execution, product judgment, automation, applied AI systems, and fast validation matter more than pretending the workflow is traditional.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<strong>Professional, practical, and honest about the process.</strong><br />
+<sub>Not every repository is production-ready. The strongest signal is the ability to structure, build, test, and improve ambitious AI products with modern agentic tools.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:14b8a6,55:2563eb,100:0f172a" alt="footer" />
