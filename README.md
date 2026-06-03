@@ -30,6 +30,21 @@ I build AI products with architecture, RAG, voice pipelines, observability, agen
 
 ---
 
+## Open Source Contributions
+
+Selected upstream contributions in public projects:
+
+- **Qdrant**: fixed API validation so invalid formula query defaults return validation errors instead of passing silently.  
+  PR: https://github.com/qdrant/qdrant/pull/9271
+- **Qdrant**: added checksum validation for shard snapshot upload and recovery endpoints.  
+  PR: https://github.com/qdrant/qdrant/pull/9302
+- **Statewave**: backend correctness, tenant isolation and data-integrity fixes across memory/context workflows.  
+  PRs: https://github.com/smaramwbc/statewave/pulls?q=author%3AskarL007
+- **pytree-stats**: added custom ignored directories for tree/stat scans.  
+  PR: https://github.com/JohannesL2/pytree-stats/pull/12
+
+---
+
 ## Profile
 
 I am an **AI-native Product Engineer** focused on applied AI systems: **RAG, memory, voice AI, LLMOps, agentic workflows, automation and production validation**.
