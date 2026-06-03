@@ -30,6 +30,25 @@ I build AI products with architecture, RAG, voice pipelines, observability, agen
 
 ---
 
+## Featured Work
+
+Curated entry points for reviewers:
+
+- **[LumenAI SDK](https://github.com/skarL007/-lumen-ai-sdk)**  
+  GenAI FinOps and observability SDK for tenant-aware cost attribution.
+- **[Qdrant](https://github.com/qdrant/qdrant)**  
+  Upstream vector database contribution accepted; second validation PR approved and awaiting merge.
+- **[Statewave](https://github.com/smaramwbc/statewave)**  
+  Multiple merged backend fixes around tenant isolation, memory workflows and data integrity.
+- **[VoiceLaunch TTS](https://github.com/skarL007/sound_voice)**  
+  Local-first TTS launcher for assistive communication and virtual microphone workflows.
+- **[Profile README](https://github.com/skarL007/skarL007)**  
+  Public portfolio and technical positioning.
+- **[pytree-stats](https://github.com/JohannesL2/pytree-stats)**  
+  Lightweight Python tree/stat utility with an open contribution for custom ignored directories.
+
+---
+
 ## Open Source Contributions
 
 Selected upstream contributions in public projects:
@@ -39,7 +58,8 @@ Selected upstream contributions in public projects:
 - **Qdrant**: added checksum validation for shard snapshot upload and recovery endpoints.  
   PR: https://github.com/qdrant/qdrant/pull/9302
 - **Statewave**: backend correctness, tenant isolation and data-integrity fixes across memory/context workflows.  
-  PRs: https://github.com/smaramwbc/statewave/pulls?q=author%3AskarL007
+  PRs: https://github.com/smaramwbc/statewave/pulls?q=author%3AskarL007  
+  Recent merge: https://github.com/smaramwbc/statewave/pull/217
 - **pytree-stats**: added custom ignored directories for tree/stat scans.  
   PR: https://github.com/JohannesL2/pytree-stats/pull/12
 
