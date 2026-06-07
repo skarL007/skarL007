@@ -39,7 +39,6 @@ Python, TypeScript, FastAPI, React, LLM workflows, evals, runtime checks and pra
 | --- | ---: | --- |
 | [Qdrant](https://github.com/qdrant/qdrant) | 6 merged upstream PRs | API validation, gRPC hardening, geo validation, snapshot checksum validation, overflow hardening |
 | [Statewave](https://github.com/smaramwbc/statewave) | 19 merged PRs | tenant isolation, backend correctness, data integrity, admin/runtime behavior |
-| [LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 5 merged PRs | accessibility, labels, UI/document structure |
 | [sound_voice](https://github.com/skarL007/sound_voice) | public product repo | local-first TTS launcher for assistive communication |
 
 Selected Qdrant PRs:
