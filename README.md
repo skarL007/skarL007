@@ -64,9 +64,3 @@ Data/Infra:  Redis, PostgreSQL, JSONL, Docker, GitHub Actions
 Frontend:    React, Electron, Tailwind CSS
 Practice:    tests, docs, validation, release gates, observability
 ```
-
----
-
-<p align="center">
-  <em>Build in public where possible. Stay honest where the work is still private.</em>
-</p>
