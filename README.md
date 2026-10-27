@@ -5,11 +5,13 @@
 <h1 align="center">Marcelo Machuca</h1>
 
 <p align="center">
-  Applied AI builder working with Python, TypeScript, RAG, voice tools and observability.
+  AI Solutions Developer working with Python, TypeScript, RAG, voice tools and observability.<br />
+  I came from medicine. I design AI systems and direct the coding agents that write them.
 </p>
 
 <p align="center">
-  <a href="https://github.com/skarL007/-lumen-ai-sdk">LumenAI SDK</a> -
+  <a href="https://skarl007.github.io/"><b>Portfolio</b></a> -
+  <a href="https://github.com/skarL007/lumen-ai-sdk">LumenAI SDK</a> -
   <a href="https://github.com/skarL007/sound_voice">VoiceLaunch TTS</a> -
   <a href="https://github.com/skarL007/capinews-data">CapiNews Data</a>
 </p>
@@ -34,7 +36,7 @@ These are my own public repositories that are worth showing right now.
 
 | Project | Focus | Stack |
 |---|---|---|
-| [LumenAI SDK](https://github.com/skarL007/-lumen-ai-sdk) | GenAI observability, cost attribution and OpenTelemetry experiments for AI systems. | Python, OpenTelemetry |
+| [LumenAI SDK](https://github.com/skarL007/lumen-ai-sdk) | GenAI observability, cost attribution and OpenTelemetry experiments for AI systems. | Python, OpenTelemetry |
 | [VoiceLaunch TTS](https://github.com/skarL007/sound_voice) | Local-first assistive TTS app with playback and virtual mic routing. | Electron, React, Python |
 | [CapiNews Data](https://github.com/skarL007/capinews-data) | Automated AI report data and static publishing. | HTML, JSON, automation |
 
