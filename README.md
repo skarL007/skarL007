@@ -6,7 +6,7 @@
 
 <p align="center">
   AI Solutions Developer working with Python, TypeScript, RAG, voice tools and observability.<br />
-  I came from medicine. I design AI systems and direct the coding agents that write them.
+  I came from medicine. I design AI systems and direct the coding agents that write them;<br />my part is the architecture, the boundaries and the proof: tests, metrics and cost.
 </p>
 
 <p align="center">
@@ -43,21 +43,15 @@ These are my own public repositories that are worth showing right now.
 | [Task Dashboard](https://github.com/skarL007/task-dashboard) | Local, read-only mission control for AI coding agents at zero model-token cost. MCP widget. | Python, MCP |
 | [CapiNews Data](https://github.com/skarL007/capinews-data) | Automated AI report data and static publishing. | HTML, JSON, automation |
 
-## Private case-study areas
+## Private case studies
 
-Some active work is private while it is being shaped. I mention it as scope, not as public proof.
+Three larger projects are private for now. They are on the [portfolio](https://skarl007.github.io/) and I can walk through them in an interview.
 
-| Area | What I can discuss |
-|---|---|
-| Document study tools | Layout-preserving translation, reader workflows, flashcards and source-grounded Q&A for dense PDFs/books. |
-| Self-hosted RAG workspaces | Privacy-first research flows, citations, usage metering, follow-up questions and evaluation loops. |
-| RAG delivery accelerators | Support assistants with receipts, evals, Docker/CI and client delivery materials. |
-| Conversational runtimes | RAG/LLM/TTS gateways, mobile test surfaces, observability dashboards and release gates. |
-| Local voice assistants | STT/TTS, memory stores, Windows-first operation and smoke-test validation. |
-| Agent tooling | AI-assisted execution, workspace permissions, agent stack analysis and local validation. |
-| Authorized audit workflows | Reports, benchmarks, gates, real-time events and optional OpenTelemetry export for approved targets. |
-
-I would rather keep private work described honestly than make the profile look bigger than the evidence available to a visitor.
+| Project | What it does | Proof |
+|---|---|---|
+| **Sublinhe** | Closed-corpus RAG for health students: turns lecture material and past exams into flashcards, questions and oral practice, always citing the page, and abstains when the source does not support an answer. BGE-M3 + FAISS + BM25, RRF fusion, reranker, LLM-judge evals. | 1,140 commits, MVP closed on 5 Oct 2026 |
+| **Axon Voice** | Local voice work partner that answers with sources: Whisper, parallel retrieval (vector memory, knowledge base, Neo4j graph), corrective RAG with LangGraph, local (Ollama) or cloud LLM. | 1,622 tests, Playwright E2E |
+| **SynapseEngine** | Memory for agents over MCP, in Rust: personalized PageRank over a bitemporal store, plus a pre-execution firewall that inspects every shell command an agent proposes. | 758 commits since 13 Sep 2026 |
 
 ## Stack
 
