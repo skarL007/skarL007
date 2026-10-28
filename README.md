@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://skarl007.github.io/"><b>Portfolio</b></a> -
-  <a href="https://www.linkedin.com/in/marcelo-machuca-ab3216237/"><b>LinkedIn</b></a> -
+  <a href="https://www.linkedin.com/in/marcelo-machuca-ia/"><b>LinkedIn</b></a> -
   <a href="https://github.com/skarL007/lumen-ai-sdk">LumenAI SDK</a> -
   <a href="https://github.com/skarL007/sound_voice">VoiceLaunch TTS</a> -
   <a href="https://github.com/skarL007/capinews-data">CapiNews Data</a>
