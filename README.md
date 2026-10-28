@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://skarl007.github.io/"><b>Portfolio</b></a> -
+  <a href="https://www.linkedin.com/in/marcelo-machuca-ab3216237/"><b>LinkedIn</b></a> -
   <a href="https://github.com/skarL007/lumen-ai-sdk">LumenAI SDK</a> -
   <a href="https://github.com/skarL007/sound_voice">VoiceLaunch TTS</a> -
   <a href="https://github.com/skarL007/capinews-data">CapiNews Data</a>
@@ -36,8 +37,10 @@ These are my own public repositories that are worth showing right now.
 
 | Project | Focus | Stack |
 |---|---|---|
-| [LumenAI SDK](https://github.com/skarL007/lumen-ai-sdk) | GenAI observability, cost attribution and OpenTelemetry experiments for AI systems. | Python, OpenTelemetry |
-| [VoiceLaunch TTS](https://github.com/skarL007/sound_voice) | Local-first assistive TTS app with playback and virtual mic routing. | Electron, React, Python |
+| [LumenAI SDK](https://github.com/skarL007/lumen-ai-sdk) | Turns GenAI traces into per-tenant USD cost without exporting prompts. On PyPI, 123 tests, [live demo](https://lumen-ai-sdk-demo.vercel.app). | Python, OpenTelemetry |
+| [Nexo Assist](https://github.com/skarL007/nexo-assist) | IT service-desk agent that shows what it understood, what it did and why; asks before acting and hands off to a human analyst. | TypeScript, Next.js, Mastra, Gemini |
+| [VoiceLaunch TTS](https://github.com/skarL007/sound_voice) | Open-source assistive TTS app: typing becomes a virtual microphone, with local fallback. 165 tests. | Electron, React, Python |
+| [Task Dashboard](https://github.com/skarL007/task-dashboard) | Local, read-only mission control for AI coding agents at zero model-token cost. MCP widget. | Python, MCP |
 | [CapiNews Data](https://github.com/skarL007/capinews-data) | Automated AI report data and static publishing. | HTML, JSON, automation |
 
 ## Private case-study areas
@@ -60,7 +63,7 @@ I would rather keep private work described honestly than make the profile look b
 
 ```txt
 Languages:   Python, TypeScript, JavaScript
-Backend:     FastAPI, Node.js, workers, queues, REST APIs
+Backend:     FastAPI, Node.js, Next.js, workers, queues, REST APIs
 AI:          RAG, LLM apps, OpenTelemetry for GenAI, voice AI, agent workflows
 Data/Infra:  Redis, PostgreSQL, JSONL, Docker, GitHub Actions
 Frontend:    React, Electron, Tailwind CSS
